@@ -1,0 +1,8 @@
+git init
+git status
+git add .
+git status
+git commit -m ""
+git remote add origin https://github.com/maheshkumarrp/Bot.git
+git remote -v
+git push origin master
