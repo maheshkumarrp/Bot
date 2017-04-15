@@ -1,2 +1,4 @@
 npm install --save @slack/client
 npm install --save node-wit
+
+npm install --save request
