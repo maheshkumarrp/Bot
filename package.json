@@ -2,7 +2,7 @@
   "name": "bot-course",
   "version": "1.0.0",
   "description": "Answer Server bot",
-  "main": "app.js",
+  "main": "app5.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "set SLACK_TOKEN=xoxb-168786302230-xfKbwMqhjlVM4rK2WSFXyhIv&& node app5.js"
